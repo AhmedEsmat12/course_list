@@ -1,0 +1,18 @@
+input
+{
+    width: 70%;
+    height: 26px;
+    /* margin: 0 22px 0 0; */
+    background: #bbbbb4;
+    border: none
+}
+.btn1
+{
+    height: 28px;
+    /* margin: 0 22px 0 0; */
+    background: green;
+    border: none;
+    width: 121px;
+    color: white;
+    text-transform: capitalize;
+}
